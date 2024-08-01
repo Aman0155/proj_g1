@@ -1,1 +1,1 @@
-# proj_g1
+# Tic Tac Toe
